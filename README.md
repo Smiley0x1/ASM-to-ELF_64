@@ -1,4 +1,4 @@
-# ASM-to-ELF64
+# ASM-to-ELF(64)
 Creates an executable from an assembly file.
 
 Just wanted a tool to speed things up
