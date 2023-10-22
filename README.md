@@ -1,2 +1,8 @@
 # ASM-to-ELF64
-Turns a .asm to a .elf file
+Creates an executable from an assembly file.
+
+Just wanted a tool to speed things up
+
+#Pre-reqs
+1) Nasm
+2) Thats it
